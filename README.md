@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi there, I'm Bhavana Erramsetty! 👋
 
 🎓 Final-year B.Tech student in Electronics and Communication Engineering.
